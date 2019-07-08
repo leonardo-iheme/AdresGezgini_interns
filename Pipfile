@@ -12,6 +12,10 @@ pandas = "*"
 matplotlib = "*"
 tqdm = "*"
 requests = "*"
+sed = "*"
+xlrd = "*"
+turkishnlp = "*"
+nltk = "*"
 
 [requires]
 python_version = "3.7"

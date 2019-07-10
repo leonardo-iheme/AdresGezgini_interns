@@ -6,16 +6,15 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+requests = "*"
 jupyter = "*"
 numpy = "*"
+turkishnlp = "*"
 pandas = "*"
 matplotlib = "*"
 tqdm = "*"
-requests = "*"
-sed = "*"
 xlrd = "*"
-turkishnlp = "*"
-nltk = "*"
+librosa = "*"
 
 [requires]
 python_version = "3.7"

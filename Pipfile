@@ -15,6 +15,12 @@ matplotlib = "*"
 tqdm = "*"
 xlrd = "*"
 librosa = "*"
+scipy = "*"
+joblib = "*"
+scikit-image = "*"
+scikit-learn = "*"
+multidict = "*"
+wordcloud = "*"
 
 [requires]
 python_version = "3.7"

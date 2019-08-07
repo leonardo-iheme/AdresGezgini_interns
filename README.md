@@ -8,5 +8,6 @@ To use this repo, follow these steps:
 4. Activate your virtual environment:  
     a. CD to the cloned repo  
     b. create a virtual environment with `pipenv shell`  
-    c. install the dependencies with `pipenv install`  
+    c. install the dependencies with `pipenv install`
+      `pipenv install numpy` for instance
 5. You are ready to get started!
